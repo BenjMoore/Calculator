@@ -7,7 +7,7 @@ print("""
 				[+] div || Divition
 				[/]------------[\]
 				""")
-			inok = input("Lewd@Calcualtor >> ")
+			inok = input("@Calcualtor >> ")
 			if inok == 'add':
 				number_1 = int(input('Enter your first number: '))
 				number_2 = int(input('Enter your second number: '))
